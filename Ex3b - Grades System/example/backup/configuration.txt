@@ -1,0 +1,3 @@
+/home/amir/Desktop/Hafaala/Ex3/Untitled Folder/example/students
+/home/amir/Desktop/Hafaala/Ex3/Untitled Folder/example/input.txt
+/home/amir/Desktop/Hafaala/Ex3/Untitled Folder/example/correctOutput.txt

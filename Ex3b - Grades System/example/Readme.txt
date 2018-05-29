@@ -1,0 +1,1 @@
+Run a.out with configuration.txt as param
